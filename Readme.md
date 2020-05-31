@@ -1,4 +1,4 @@
 #Gwangju AI pre-school
 
-#1st week(05.21)
-#2nd week(05.28)
+#1st week(06.01)
+#2nd week(06.01)
